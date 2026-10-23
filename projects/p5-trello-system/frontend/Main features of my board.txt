@@ -1,0 +1,18 @@
+Main features of my board 
+User can be admin , owner , member 
+User can create board 
+inside board he can create list
+Each list he can create card 
+User can move card from one list to another list
+Card have assigned person
+Card have tag for quick acces  
+
+
+
+Admin can access control to users
+User have card move access 
+User have only view access p
+User have edit access 
+User have comment access 
+User have the board access  
+each card can be assigned to multiple people 

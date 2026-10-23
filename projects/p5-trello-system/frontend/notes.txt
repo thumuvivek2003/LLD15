@@ -1,0 +1,5 @@
+User Visit Dashboard
+Dashboard have the Boards (Owned by him + access to him)
+Users list if he admin 
+
+Boards click ==> List ==> Cards ==> Moveent 
